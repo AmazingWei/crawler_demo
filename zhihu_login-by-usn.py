@@ -5,8 +5,8 @@ import subprocess
 import json
 
 url='https://www.zhihu.com/signup?next=%2F'
-usn="13001258686"
-psd="xtw980213"
+usn="your username"
+psd="your password"
 follower_list=[]
 
 def login(browser):
